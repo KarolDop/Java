@@ -8,7 +8,7 @@ public class Fibonacci
         Scanner keyboard = new Scanner(System.in);
         int sequenceNumber = 0;
 
-        System.out.print("Podaj element ciągu fibonacci'ego którego wartość chcesz poznać: ");
+        System.out.print("Podaj element ciągu fibonacci'ego którego wartość chcesz: ");
         try
         {
             sequenceNumber = keyboard.nextInt();
